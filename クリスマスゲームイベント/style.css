@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    font-size: 1.2rem;
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo-area{
+    display: flex;
+    margin: 20px auto;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.haikei{
+    background-color: #F5F5F5;
+    padding: 10px;
+    border-bottom: 1px solid #333;
+    border-top: 1px solid #333;
+}
+
+.h1{
+    font-size: 15px;
+    margin-left:70px;
+    
+}
+
+.title{
+    margin: 55px;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+
